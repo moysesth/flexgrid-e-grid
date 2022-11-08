@@ -1,3 +1,8 @@
+# description
+
+This skatepark landing page is part of a CSS course @ Alura (https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid)
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
